@@ -41,4 +41,4 @@ catch (DeadPetEcxeption)
 {
     Console.WriteLine("smůla Panda je mrtvá");
 }
-
+Console.WriteLine("Změna mazlíčka");
